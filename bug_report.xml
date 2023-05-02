@@ -1,1 +1,9 @@
-
+<Bug_report>
+  <ID>1</ID>
+  <Severity>Minor</Severity>
+  <Enviroment>Samsung Galaxy A52, Android 13, Chrome 106</Enviroment>
+  <Title>Page "TradingView" is not translated into all languages except DE, ES</Title>
+  <Steps>1.Navigate to capital.com 2.Select any language (except AR, DE) 3.Tap on button  [Burger menu] 4.Expand menu section [Ways to trade] 5.Tap on menu item [TradingView]"</Steps>
+  <Expected_result>Block "TradingView" is translated into all languages</Expected_result>
+  <Actual_result>Block "TradingView" is not translated into all languages except DE</Actual_result>
+</Bug_report>
